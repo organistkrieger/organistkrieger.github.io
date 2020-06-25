@@ -12,3 +12,5 @@ director. I love the movue Gran Tourino, and one of my favourite movies is In th
 Favourite quote:
 > I don't like sports.
 > I rather like acting.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/ClintEastwoodCannesMay08.jpg/800px-ClintEastwoodCannesMay08.jpg"/>
